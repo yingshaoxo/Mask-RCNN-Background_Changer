@@ -9,6 +9,6 @@ Original [Mask-RCNN-Shiny](https://github.com/huuuuusy/Mask-RCNN-Shiny) is mainl
 However, this project is intended to remove backgound from object, then replace it with your own background.
 
 ## Screenshots
-(before)[screenshot/before.png]
+[before](screenshot/before.png)
 
-(after)[screenshot/after.png]
+[after](screenshot/after.png)
